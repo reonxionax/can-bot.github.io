@@ -11,7 +11,6 @@
  * 3. In your Spotify app settings, add both redirect URIs below to the
  *    "Redirect URIs" list
  * 4. Add your own Spotify account email under Settings → User Management
- *
  * ──────────────────────────────────────────────────────────────────────────
  */
 
